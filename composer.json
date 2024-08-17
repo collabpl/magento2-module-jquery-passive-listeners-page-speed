@@ -1,6 +1,6 @@
 {
     "name": "collab/module-jquery-passive-listeners-page-speed",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple Magento 2 module which provides jQuery mixin with passive event listeners to improve PageSpeed score.",
     "type": "magento2-module",
     "authors": [
