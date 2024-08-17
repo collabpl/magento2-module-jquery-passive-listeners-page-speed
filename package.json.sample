@@ -1,0 +1,26 @@
+{
+  "name": "magento2-module-jquery-passive-listeners-page-speed",
+  "version": "1.0.0",
+  "description": "The Collab_JqueryPassiveListenersPageSpeed is a simple Magento 2 module which improves PageSpeed Insights score  by marking jQuery's touch and wheel event listeners as passive.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collabpl/magento2-module-jquery-passive-listeners-page-speed.git"
+  },
+  "author": "Marcin Jędrzejewski <m.jedrzejewski@collab.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collabpl/magento2-module-jquery-passive-listeners-page-speed/issues"
+  },
+  "homepage": "https://github.com/collabpl/magento2-module-jquery-passive-listeners-page-speed#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
